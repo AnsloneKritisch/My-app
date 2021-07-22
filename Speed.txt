@@ -1,0 +1,6 @@
+Defragment Disk
+Disk Clean Up
+Prefetch
+%temp%
+Recycle bin
+Recent
